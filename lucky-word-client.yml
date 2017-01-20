@@ -1,6 +1,6 @@
 # lucky-word-client configuration
 ---
 wordConfig:
-  lucky-word: Welch
+  lucky-word: Irish
   preamble: wordConfig
 
