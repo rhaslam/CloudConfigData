@@ -1,5 +1,5 @@
 # lucky-word-client configuration
 ---
 lucky-word: 
-  word-config: Welch
+  wordConfig: Welch
 
